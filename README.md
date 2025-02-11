@@ -1,37 +1,71 @@
-# 👋 Hi, I'm Sachin Singh (@sachinsingh45)
-
-### 👀 Interests:
-- Competitive Programming (1000+ problems solved across various platforms)
-- Web Development (Frontend, UI/UX Design)
-- Exploring new technologies and frameworks
-
-### 🌱 Currently Learning:
-- Optimizing dynamic programming solutions
-- Advanced React and Tailwind CSS
-- Diving deeper into Computer Networks and Operating Systems
-
-### 💼 Positions of Responsibility:
-- Software Engineering Fellow @ Headstarter AI
-- Technical Team Member @ THINK INDIA NITP
-- Technical Team Member @ Robotics Club NIT Patna
-
-### 💞️ Collaboration:
-- Looking to collaborate on **web development** projects or **open-source** contributions related to **UI/UX** or **e-commerce** platforms.
-
-### 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/sachinsingh45)
-- [GitHub](https://github.com/sachinsingh45)
-- Email: sachinsingh16404@gmail.com
-
-### ⚡ Fun Facts:
-- I’m a tech enthusiast who loves gaming (especially chess and cricket) in my free time.
-- Currently working on building an interactive **movie recommendation app** based on user moods, inspired by Netflix!
+<h1 align="center">Hey there! 👋 I'm Sachin Singh</h1>
 
 ---
 
-🌟 Check out my projects:
-- [PassGen](https://github.com/sachinsingh45/PassGen) - A password generator with a clean UI.
-- [MyWeather](https://github.com/sachinsingh45/MyWeather) - A real-time weather forecast web app.
-- [EasyPick](https://github.com/sachinsingh45/EasyPick) - A basic shopping cart app built using React and Tailwind CSS.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Engineer+|+MERN+Stack+Developer;Competitive+Programmer+|+DSA+Enthusiast;Passionate+about+Tech+%26+Innovation" />
+</div>
 
-Feel free to connect and collaborate! 😄
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachinsingh45&show_icons=true&theme=dracula&hide_border=false&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinsingh45&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+---
+
+## 🚀 Tech Stack:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,react,nodejs,express,mongodb,mysql,firebase,html,css,tailwind,git,github,postman,vscode" />
+</div>
+
+---
+
+## 🏆 Achievements:
+- **Solved 1.5K+ DSA problems** across platforms  
+- **Pupil** on Codeforces
+- **3★ on CodeChef**
+- 🏆 **Runner-up** in Geeks Challenge 1.0 (TESLA - NITP, GeeksforGeeks)  
+- 🏆 **Runner-up** in Catalyze.AI event (ByteHunt, TCF’24, NIT Patna)  
+
+---
+
+## 💻 Notable Projects:
+
+🎥 **[MoodShow](https://mood-show.web.app/)** - AI-powered movie recommendation app  
+👨‍💻 **[CodeCrush](https://github.com/sachinsingh45/codeCrush)** - Full-stack developer collaboration platform  
+🛒 **[EasyPick](https://easy-pick.vercel.app/)** - Shopping cart web application  
+
+---
+
+## 📌 Connect with Me:
+
+<div align="center">
+  <a href="https://github.com/sachinsingh45">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sachinsingh45">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/sachinsingh45">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/sachinsingh16404">
+    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/sachin1604">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🎯 Fun Facts:
+- 🔥 I love solving **DSA problems** and **participating in coding contests**.  
+- 💡 Always exploring **new technologies** and working on **exciting projects**.  
+- 🎵 Music & coding = **best combo for productivity**.  
+- 🏆 I believe in **continuous learning and growth**.  
+
+---
