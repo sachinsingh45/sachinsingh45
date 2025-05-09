@@ -36,7 +36,7 @@
 
 🎥 **[MoodShow](https://mood-show.web.app/)** - AI-powered movie recommendation app  
 👨‍💻 **[CodeCrush](https://github.com/sachinsingh45/codeCrush)** - Full-stack developer collaboration platform  
-🛒 **[EasyPick](https://easy-pick.vercel.app/)** - Shopping cart web application  
+🛒 **[shlokaVaani](https://shlok-vaani.vercel.app/)** - Interactive Sanskrit Learning Platform
 
 ---
 
