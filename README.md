@@ -34,9 +34,9 @@
 
 ## 💻 Notable Projects:
 
-🎥 **[MoodShow](https://mood-show.web.app/)** - AI-powered movie recommendation app  
-👨‍💻 **[CodeCrush](https://github.com/sachinsingh45/codeCrush)** - Full-stack developer collaboration platform  
-🛒 **[shlokaVaani](https://shlok-vaani.vercel.app/)** - Interactive Sanskrit Learning Platform
+🎥 **[MoodShow](https://mood-show.web.app/)** – AI-powered movie recommendation app  
+👨‍💻 **[CodeCrush](https://github.com/sachinsingh45/codeCrush)** – Full-stack developer collaboration platform  
+🛕 **[ShlokaVaani](https://shlok-vaani.vercel.app/)** – Interactive Sanskrit Learning Platform
 
 ---
 
