@@ -33,10 +33,13 @@
 ---
 
 ## 💻 Notable Projects:
-👨‍💻 **[CodeCrush](https://code-crush-frontend-psi.vercel.app/)** – Full-stack developer collaboration platform  
+👨‍💻 **[CodeCrush](https://code-crush-frontend-psi.vercel.app/)** – Full-stack developer collaboration platform.
+
 🌱 **[Amazon Green](https://hack-on-sustainable-shopping-experience-7qb76gwgo.vercel.app/)** – Sustainable Shopping. Smarter Choices.
-🛕 **[ShlokaVaani](https://shlok-vaani.vercel.app/)** – Interactive Sanskrit Learning Platform
-🎥 **[MoodShow](https://mood-show.web.app/)** – AI-powered movie recommendation app  
+
+🛕 **[ShlokaVaani](https://shlok-vaani.vercel.app/)** – Interactive Sanskrit Learning Platform.
+
+🎥 **[MoodShow](https://mood-show.web.app/)** – AI-powered movie recommendation app.
 
 ---
 
