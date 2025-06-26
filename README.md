@@ -24,8 +24,8 @@
 ---
 
 ## 🏆 Achievements:
-- **Solved 1.5K+ DSA problems** across platforms  
-- **Pupil** on Codeforces
+- **Solved 2K+ DSA problems** across platforms  
+- **Specialist** on Codeforces
 - **3★ on CodeChef**
 - 🏆 **Runner-up** in Geeks Challenge 1.0 (TESLA - NITP, GeeksforGeeks)  
 - 🏆 **Runner-up** in Catalyze.AI event (ByteHunt, TCF’24, NIT Patna)  
@@ -35,7 +35,7 @@
 ## 💻 Notable Projects:
 
 🎥 **[MoodShow](https://mood-show.web.app/)** – AI-powered movie recommendation app  
-👨‍💻 **[CodeCrush](https://github.com/sachinsingh45/codeCrush)** – Full-stack developer collaboration platform  
+👨‍💻 **[CodeCrush](https://code-crush-frontend-psi.vercel.app/)** – Full-stack developer collaboration platform  
 🛕 **[ShlokaVaani](https://shlok-vaani.vercel.app/)** – Interactive Sanskrit Learning Platform
 
 ---
